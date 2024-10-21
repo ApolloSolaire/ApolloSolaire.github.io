@@ -10,7 +10,7 @@ disableKinds = ["taxonomy", "term"]
 
 [params.author]
   name = "ApolloSolaire"
-  headline = "Long days and pleasent nights"
+  headline = "Long days and pleasant nights"
   image = "img/pfp.jpg"  # path relative to static directory
 
   links = [

@@ -54,8 +54,9 @@ disableKinds = ["taxonomy", "term"]
  { tiktok = "https://tiktok.com/@apollosolaire" },
     # { tumblr = "https://username.tumblr.com" },
  { twitch = "https://twitch.tv/ApolloSolaire" },
+ { twitter = "https://x.com/ApolloSolaire" },
     # { whatsapp = "https://wa.me/phone-number" },
- { x = "https://x.com/ApolloSolaire" },
+    # { x = "https://x.com/ApolloSolaire" },
  { youtube = "https://youtube.com/@apollosolaire" },
   ]
 
